@@ -73645,5 +73645,12 @@
     "author": "onecat",
     "description": "Handwrite on PDFs, search text, export annotated copies, and create handwritten notebooks. Pro 0.4.6 adds handwriting directly on Markdown notes, linked excerpts, and source navigation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "onecat-77/moye-notes-free"
-  }
+  },
+  {
+  "id": "daily-media-gallery",
+  "name": "Daily Media Gallery",
+  "author": "Akshay V",
+  "description": "Shows photos and videos from a folder on your disk inside your daily notes, matched by their real capture date.",
+  "repo": "akshayaky/daily-media-gallery"
+}
 ]
